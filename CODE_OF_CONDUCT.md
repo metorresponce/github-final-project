@@ -10,19 +10,19 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 Examples of behavior that contributes to a positive environment for our community include:
 
-- Demonstrating empathy and kindness toward other people  
-- Being respectful of differing opinions, viewpoints, and experiences  
-- Giving and gracefully accepting constructive feedback  
-- Accepting responsibility and apologizing to those affected by our mistakes  
-- Focusing on what is best not just for us as individuals, but for the overall community  
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes
+* Focusing on what is best not just for us as individuals, but for the overall community
 
 Examples of unacceptable behavior include:
 
-- The use of sexualized language or imagery  
-- Trolling, insulting or derogatory comments, and personal or political attacks  
-- Public or private harassment  
-- Publishing others’ private information without explicit permission  
-- Other conduct which could reasonably be considered inappropriate in a professional setting  
+* The use of sexualized language or imagery
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others’ private information without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Enforcement Responsibilities
 
@@ -32,7 +32,7 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 
 ## Scope
 
-This Code of Conduct applies within all community spaces and also applies when an individual is officially representing the community in public spaces.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
 
 Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
@@ -48,11 +48,29 @@ All community leaders are obligated to respect the privacy and security of the r
 
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
-1. Correction  
-2. Warning  
-3. Temporary Ban  
-4. Permanent Ban  
+### 1. Correction
+
+Correct the behavior in a way that is clear to all parties. This may include gentle guidance or clarification.
+
+### 2. Warning
+
+Issue a warning to the individual whose behavior is unacceptable, explaining why it is inappropriate and outlining improvements needed.
+
+### 3. Temporary Ban
+
+Ban the individual from certain community spaces or events for a temporary period.
+
+### 4. Permanent Ban
+
+Remove the individual from the community with no further access.
 
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+
+---
+
+Si querés lo dejamos con tu firma personalizada abajo (opcional), por ejemplo:
+
+```markdown
+*This Code of Conduct was created by the contributors of github-final-project.*
